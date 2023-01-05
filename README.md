@@ -9,15 +9,15 @@
 
 ## 🚀 每6小时更新一次
 
-- clash订阅链接：`https://git.io/heqihua963/emzclash`
+- clash订阅链接：`https://git.io/emzclash`
 
-- v2ray订阅链接：`https://git.io/heqihua963/emzv2ray`
+- v2ray订阅链接：`https://git.io/emzv2ray`
 
 手机用户无法访问上方短链接时可以用下面的长链接
 
-- clash订阅链接：`https://raw.githubusercontent.com/ermaozi/heqihua963/get_subscribe/main/subscribe/clash.yml`
+- clash订阅链接：`https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml`
 
-- v2ray订阅链接：`https://raw.githubusercontent.com/ermaozi/heqihua963/get_subscribe/main/subscribe/v2ray.txt`
+- v2ray订阅链接：`https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt`
 
 ## 📧 更新推送
 
